@@ -1,4 +1,5 @@
-package com.example.hh.and;
+package test.and;
+
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,8 +11,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.EditText;
 import android.widget.TextView;
-
-import test.and.R;
 
 public class MainActivity extends Activity implements SensorEventListener {
 
